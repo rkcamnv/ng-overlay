@@ -1,0 +1,7 @@
+main{
+  @apply h-screen w-screen;
+}
+
+.content{
+  @apply mx-auto h-full container flex items-center justify-center;
+}
